@@ -2,7 +2,6 @@
 layout: mypost
 title: on the way to meet an old friend
 categories: [年轻时写的日记,日记]
-extMath: false
 ---
 ### 1:14pm
 

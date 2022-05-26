@@ -2,7 +2,6 @@
 layout: mypost
 title: go crazily mad
 categories: [年轻时写的日记,日记]
-extMath: false
 ---
 ### 1:39am
 

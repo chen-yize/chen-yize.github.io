@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "07c725fd7100dec2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7571fd30c34d2bce",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2016-12-26-越来越多的人脱单了.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "695a3f6184e5c086",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5db0f736105cba9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0e063bdaca27947",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e647795721b76d2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32906629c5a0abee",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6eaaace0c0dd676",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e23f64da02ff6cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2016-12-26-越来越多的人脱单了.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7571fd30c34d2bce",
+  "lastOpenFiles": [
+    "2016-12-26-越来越多的人脱单了.md",
+    "2017-03-10-突然心里难受.md",
+    "2017-03-12-你来人间一趟.md",
+    "2021-04-29-康复日记.md",
+    "2017-02-04-雁南左舍  同学会.md",
+    "2017-02-08-终于要约她出来看电影啦😝.md",
+    "2017-01-29-夜里的时候 情绪真的很脆弱.md",
+    "2017-01-20-错觉错觉一定是错觉.md",
+    "2017-01-07-上海 to 乐清.md",
+    "2017-01-31-白茶清欢无别事.md"
+  ]
+}
